@@ -4,27 +4,23 @@
 ---
 
 Moi, c'est **Quentin** !
-J'ai **20 ans** et suis actuellement étudiant en école d'ingénierie informatique, préparant un Bachelor Responsable de projets informatiques (Bac+3).
+J'ai **20 ans** et suis actuellement étudiant en école d'ingénierie informatique, préparant un Bachelor Responsable de projets informatiques (Bac+3) à Lyon, en France.
 
 Je suis en alternance au sein du groupe Vinci Énergies.  
 
-J'ai également une micro-entreprise poposant des services de consultation IT, Infogérance, audit, et plus pour les entreprises (MONTESSUIS Tech), et une activitée d'hébergement grand public (Le Petit Hébergeur)
+J'ai également une micro-entreprise poposant des services de consultation IT, Infogérance, audit, et plus pour les profesionnels (MONTESSUIS Tech), et une activitée d'hébergement grand public (Le Petit Hébergeur)
 
 [![Le Petit Hebergeur](https://img.shields.io/badge/Le%20Petit%20H%C3%A9bergeur-Visiter-%239137e6??&style=for-the-badge)](https://lepetithebergeur.com)
 [![MONTESSUIS Tech](https://img.shields.io/badge/MONTESSUIS%20Tech-Visiter-%2342a7f5?style=for-the-badge)](https://montessuis.tech)
-
-
-
+<br/><br/>
 ### ✨ Mes projets
 ---
 
 - [Arduino Automated Gate](https://github.com/MarOwNFR/Arduino-automated-gate)
-- [Center Of Creators : Bot Panels](#) *(en construction)*
-- [Center Of Creators : Bot Commandes](#) *(en construction)*
-- [Center Of Creators : Website](#) *(en construction)*
-
-
-
+- [Center Of Creators : Bot Panels](/) *(en construction)*
+- [Center Of Creators : Bot Commandes](/) *(en construction)*
+- [Center Of Creators : Website](/) *(en construction)*
+<br/><br/>
 ### ⌨ Langages de programmation
 ---
 
@@ -42,9 +38,7 @@ J'ai également une micro-entreprise poposant des services de consultation IT, I
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)](https://www.mysql.com/fr/)
 [![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white&style=for-the-badge)](https://www.json.org/json-fr.html)
 [![XAML](https://img.shields.io/badge/-XAML-0C54C2?logo=xaml&logoColor=white&style=for-the-badge)](https://www.xaml.fr/)
-
-
-
+<br/><br/>
 ### 💻 Logiciels, outils et OS utilisés
 ---
 
@@ -59,9 +53,7 @@ J'ai également une micro-entreprise poposant des services de consultation IT, I
 [![Windows 10](https://img.shields.io/badge/-Windows%2010-0078D6?logo=windows&logoColor=white&style=for-the-badge)](https://www.microsoft.com/fr-fr/software-download/windows10)
 [![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=archlinux&logoColor=white&style=for-the-badge)](https://archlinux.fr/)
 [![MacOS](https://img.shields.io/badge/-MacOS-000000?logo=macos&logoColor=white&style=for-the-badge)](https://www.apple.com/fr/macos/monterey/)
-
-
-
+<br/><br/>
 ### 🗣 Où me retrouver ?
 ---
 
@@ -69,16 +61,18 @@ Discord :
 - [Center of Creators](https://discord.gg/TuF7zq2fRC)
 - [Le Petit Hébergeur](https://discord.gg/bEFBEv2vJj)
 - [MONTESSUIS Tech](https://discord.gg/KwsJRSTfSj)
+<br/><br/>
+### 📞 Me contacter
+---
 
-Internet :
-- [Le Petit Hébergeur](https://lepetithebergeur.com)
-- [MONTESSUIS Tech](https://montessuis.tech)
-
-
-
+[![Discord](https://img.shields.io/badge/Dicord-MarOwN%238716-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-MarOwN-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/marownfr)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Quentin%20MONTESSUIS-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/quentin-montessuis/)
+[![Mail](https://img.shields.io/badge/Mail-quentinmontessuis.pro%5Bat%5Dgmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge)]( mailto:quentinmontessuis.pro@gmail.com?subject=Github%20Contact%20-%20Need%20information)
+<br/><br/>
 ### 📈 Mes statistiques Github
 ---
 
-[![MarOwNFR's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarOwNFR&count_private=true&show_icons=true&theme=Gradient&include_all_commits=true&hide_title=true&locale=fr)](https://github.com/MarOwNFR)
+[![MarOwNFR's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarOwNFR&count_private=true&show_icons=true&theme=Gradient&include_all_commits=true&hide_title=true&locale=fr)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarOwNFR&layout=compact&hide_title=true&count_private=true&include_all_commits=true&locale=fr&theme=Gradient)](https://github.com/MarOwNFR)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarOwNFR&layout=compact&hide_title=true&count_private=true&include_all_commits=true&locale=fr&theme=Gradient)](#)
