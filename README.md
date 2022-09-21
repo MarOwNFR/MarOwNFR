@@ -66,7 +66,7 @@ Discord :
 ---
 
 [![Discord](https://img.shields.io/badge/Dicord-MarOwN%238716-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-MarOwN-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/marownfr)
+[![Twitter](https://img.shields.io/badge/Twitter-MarOwNFR-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/marownfr)
 [![Linkedin](https://img.shields.io/badge/Linkedin-Quentin%20MONTESSUIS-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/quentin-montessuis/)
 [![Mail](https://img.shields.io/badge/Mail-quentinmontessuis.pro%5Bat%5Dgmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge)]( mailto:quentinmontessuis.pro@gmail.com?subject=Github%20Contact%20-%20Need%20information)
 <br/><br/>
