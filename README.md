@@ -4,7 +4,7 @@
 ---
 
 Moi, c'est **Quentin** !
-J'ai **20 ans** et suis actuellement étudiant en école d'ingénierie informatique, préparant un Bachelor Responsable de projets informatiques (Bac+3) à Lyon, en France.
+J'ai **22 ans** et suis actuellement étudiant en école d'ingénierie informatique, préparant un Master Expert en Systèmes d’Information (Bac+5) à Lyon, en France.
 
 Je suis en alternance au sein du groupe Vinci Énergies.  
 
@@ -50,9 +50,9 @@ J'ai également une micro-entreprise poposant des services de consultation IT, I
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)](https://www.figma.com)
 [![CodeSandbox](https://img.shields.io/badge/-CodeSandbox-000000?logo=codesandbox&logoColor=white&style=for-the-badge)](https://codesandbox.io/)
 
-[![Windows 10](https://img.shields.io/badge/-Windows%2010-0078D6?logo=windows&logoColor=white&style=for-the-badge)](https://www.microsoft.com/fr-fr/software-download/windows10)
+[![Windows 11](https://img.shields.io/badge/-Windows%2010-0078D6?logo=windows&logoColor=white&style=for-the-badge)](https://www.microsoft.com/fr-fr/software-download/windows11)
 [![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=archlinux&logoColor=white&style=for-the-badge)](https://archlinux.fr/)
-[![MacOS](https://img.shields.io/badge/-MacOS-000000?logo=macos&logoColor=white&style=for-the-badge)](https://www.apple.com/fr/macos/monterey/)
+[![MacOS](https://img.shields.io/badge/-MacOS-000000?logo=macos&logoColor=white&style=for-the-badge)](https://www.apple.com/fr/macos)
 <br/><br/>
 ### 🗣 Où me retrouver ?
 ---
@@ -61,12 +61,13 @@ Discord :
 - [Center of Creators](https://discord.gg/TuF7zq2fRC)
 - [Le Petit Hébergeur](https://discord.gg/bEFBEv2vJj)
 - [MONTESSUIS Tech](https://discord.gg/KwsJRSTfSj)
+- [Nisshoku Games](https://discord.gg/C3bBeYKkmM)
 <br/><br/>
 ### 📞 Me contacter
 ---
 
 [![Discord](https://img.shields.io/badge/Dicord-MarOwN%238716-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-MarOwNFR-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/marownfr)
+[![X (Formerly Twitter)](https://img.shields.io/badge/Twitter-MarOwNFR-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/marownfr)
 [![Linkedin](https://img.shields.io/badge/Linkedin-Quentin%20MONTESSUIS-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/quentin-montessuis/)
 [![Mail](https://img.shields.io/badge/Mail-quentinmontessuis.pro%5Bat%5Dgmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge)]( mailto:quentinmontessuis.pro@gmail.com?subject=Github%20Contact%20-%20Need%20information)
 <br/><br/>
