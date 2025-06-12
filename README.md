@@ -4,9 +4,9 @@
 ---
 
 Moi, c'est **Quentin** !
-J'ai **22 ans** et suis actuellement étudiant en école d'ingénierie informatique, préparant un Master Expert en Systèmes d’Information (Bac+5) à Lyon, en France.
+J'ai **23 ans** et suis actuellement étudiant en école d'ingénierie informatique, préparant un Master Expert en Systèmes d’Information (Bac+5) à Lyon, en France.
 
-Je suis en alternance au sein du groupe Vinci Énergies.  
+Je suis en alternance au sein de la société Stim Studio, et anciennement au seins du groupe Vinci Energies.  
 
 J'ai également une micro-entreprise poposant des services de consultation IT, Infogérance, audit, et plus pour les profesionnels (MONTESSUIS Tech), et une activitée d'hébergement grand public (Le Petit Hébergeur)
 
@@ -58,10 +58,9 @@ J'ai également une micro-entreprise poposant des services de consultation IT, I
 ---
 
 Discord :
-- [Center of Creators](https://discord.gg/TuF7zq2fRC)
 - [Le Petit Hébergeur](https://discord.gg/bEFBEv2vJj)
 - [MONTESSUIS Tech](https://discord.gg/KwsJRSTfSj)
-- [Nisshoku Games](https://discord.gg/C3bBeYKkmM)
+- [Center of Creators](https://discord.gg/TuF7zq2fRC)
 <br/><br/>
 ### 📞 Me contacter
 ---
