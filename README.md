@@ -4,13 +4,10 @@
 ---
 
 Moi, c'est **Quentin** !
-J'ai **23 ans** et suis actuellement étudiant en école d'ingénierie informatique, préparant un Master Expert en Systèmes d’Information (Bac+5) à Lyon, en France.
+J'ai **23 ans**, Head of IT pour le studio d'animation 3D/VFX Stim Studio à Lyon, en France. Anciennement alternant au seins du groupe Vinci Energies.  
 
-Je suis en alternance au sein de la société Stim Studio, et anciennement au seins du groupe Vinci Energies.  
+J'ai également une micro-entreprise poposant des services de consultation IT, Infogérance, audit, et plus pour les profesionnels (MONTESSUIS Tech)
 
-J'ai également une micro-entreprise poposant des services de consultation IT, Infogérance, audit, et plus pour les profesionnels (MONTESSUIS Tech), et une activitée d'hébergement grand public (Le Petit Hébergeur)
-
-[![Le Petit Hebergeur](https://img.shields.io/badge/Le%20Petit%20H%C3%A9bergeur-Visiter-%239137e6??&style=for-the-badge)](https://lepetithebergeur.com)
 [![MONTESSUIS Tech](https://img.shields.io/badge/MONTESSUIS%20Tech-Visiter-%2342a7f5?style=for-the-badge)](https://montessuis.tech)
 <br/><br/>
 ### ✨ Mes projets
@@ -58,7 +55,6 @@ J'ai également une micro-entreprise poposant des services de consultation IT, I
 ---
 
 Discord :
-- [Le Petit Hébergeur](https://discord.gg/bEFBEv2vJj)
 - [MONTESSUIS Tech](https://discord.gg/KwsJRSTfSj)
 - [Center of Creators](https://discord.gg/TuF7zq2fRC)
 <br/><br/>
